@@ -1,0 +1,32 @@
+.black {
+  color: black;
+  face: "Ubuntu Mono"
+}
+
+.normal {
+  color:#ffffff;
+  font-family: Ubuntu Mono;
+}
+
+.mainObjektOverflow {
+  width: 800px;
+  border: 2px solid black;
+  overflow: auto;
+  margin-left: 150px;
+}
+
+.obj {
+  color:#ffffff;
+  font-family: Ubuntu Mono;
+  float: left;
+  width: auto;
+}
+
+.Obj1 {
+  float: left;
+  width: 350px;
+}
+
+.abstand {
+  padding-left: 20px;
+}
